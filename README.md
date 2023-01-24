@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RealSleep
-- 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning Unit Testing.
+- 👀 I’m interested in Computer Networks and Automation.
+- 🌱 I’m currently study networks and want earn CCNA certification.
 - 📫 How to reach me by email amirhan9878@gmail.com
